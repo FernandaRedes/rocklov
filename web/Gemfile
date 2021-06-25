@@ -1,0 +1,14 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+ruby "2.5.8"
+gem "capybara", "3.33.0"
+gem 'cucumber', '6.1'
+gem "rspec", "3.10.0"
+gem "selenium-webdriver", "3.142.7"
+gem "httparty", "0.18.1"
+gem "rufo", "0.12.0"
+gem 'allure-cucumber', '2.14'
+gem "faker", "2.14"
+gem "mongo", "2.13.1"

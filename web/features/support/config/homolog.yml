@@ -1,0 +1,5 @@
+---
+  #url do ambiente de homologação
+  url: http://rocklov.homolog.com
+  #usuário, senha, ip, porta, nome do bd
+  mongo: mongodb://usuario@senha:200.234.55.77:27017/rocklov
